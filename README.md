@@ -59,4 +59,4 @@ The purpose of this project was to apply fundamental C# concepts learned during 
 
 1. Clone the repository:
    ```bash
-   git clone <repository-link>
+   git clone https://github.com/anasshafique/C-user-authentication-.git
