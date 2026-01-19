@@ -1,0 +1,14 @@
+C:\Users\anass\OneDrive\Desktop\Notes and Assignment\Introduction to programming\CET137 Assessment 1\CET137 Assessment 1\bin\Debug\CET137 Assessment 1.exe.config
+C:\Users\anass\OneDrive\Desktop\Notes and Assignment\Introduction to programming\CET137 Assessment 1\CET137 Assessment 1\bin\Debug\CET137 Assessment 1.exe
+C:\Users\anass\OneDrive\Desktop\Notes and Assignment\Introduction to programming\CET137 Assessment 1\CET137 Assessment 1\bin\Debug\CET137 Assessment 1.pdb
+C:\Users\anass\OneDrive\Desktop\Notes and Assignment\Introduction to programming\CET137 Assessment 1\CET137 Assessment 1\obj\Debug\CET137 Assessment 1.csproj.AssemblyReference.cache
+C:\Users\anass\OneDrive\Desktop\Notes and Assignment\Introduction to programming\CET137 Assessment 1\CET137 Assessment 1\obj\Debug\CET137 Assessment 1.csproj.CoreCompileInputs.cache
+C:\Users\anass\OneDrive\Desktop\Notes and Assignment\Introduction to programming\CET137 Assessment 1\CET137 Assessment 1\obj\Debug\CET137 Assessment 1.exe
+C:\Users\anass\OneDrive\Desktop\Notes and Assignment\Introduction to programming\CET137 Assessment 1\CET137 Assessment 1\obj\Debug\CET137 Assessment 1.pdb
+C:\Users\anass\OneDrive\Desktop\CET137 Assessment 1\CET137 Assessment 1\CET137 Assessment 1\bin\Debug\CET137 Assessment 1.exe.config
+C:\Users\anass\OneDrive\Desktop\CET137 Assessment 1\CET137 Assessment 1\CET137 Assessment 1\bin\Debug\CET137 Assessment 1.exe
+C:\Users\anass\OneDrive\Desktop\CET137 Assessment 1\CET137 Assessment 1\CET137 Assessment 1\bin\Debug\CET137 Assessment 1.pdb
+C:\Users\anass\OneDrive\Desktop\CET137 Assessment 1\CET137 Assessment 1\CET137 Assessment 1\obj\Debug\CET137 Assessment 1.csproj.AssemblyReference.cache
+C:\Users\anass\OneDrive\Desktop\CET137 Assessment 1\CET137 Assessment 1\CET137 Assessment 1\obj\Debug\CET137 Assessment 1.csproj.CoreCompileInputs.cache
+C:\Users\anass\OneDrive\Desktop\CET137 Assessment 1\CET137 Assessment 1\CET137 Assessment 1\obj\Debug\CET137 Assessment 1.exe
+C:\Users\anass\OneDrive\Desktop\CET137 Assessment 1\CET137 Assessment 1\CET137 Assessment 1\obj\Debug\CET137 Assessment 1.pdb

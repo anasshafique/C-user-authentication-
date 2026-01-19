@@ -1,0 +1,2 @@
+username = Kim Jong Un
+Password = Make North Korea Great Again
